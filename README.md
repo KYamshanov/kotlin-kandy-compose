@@ -1,0 +1,1 @@
+This sample shows how to use compose with kandy. 
